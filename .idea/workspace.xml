@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f69939e-9c22-4621-9ddd-ec24a80ac8a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/.idea/dandanpezeshki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app1/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/metisMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/metisMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/spinners.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/images/arijit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/images/genu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/images/hritik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/images/pawandeep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/images/sonu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/dashboard1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/myadmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/js/waves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/ie7/ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/ie7/ie7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/icons/themify-icons/themify-icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/myadmin.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/responsive.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/sidebar-nav.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/spinners.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/static/less/widgets.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/basic-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/map-google.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/templates/themifyicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dandanpezeshki/app2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/.idea/jahadi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/app1/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/app1/api/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/app1/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/app1/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/app1/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/agency.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/css1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/css2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/css3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/css4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/css/mycss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/fontawesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/persianDatepicker-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/persianDatepicker-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/persianDatepicker-latoja.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/persianDatepicker-lightorang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/persianDatepicker-melon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/prism.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/css/vertical-responsive-menu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/ajaxmin.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/jquery-1.10.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/persianDatepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/persianDatepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/prism.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/prism.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/datepicker2/js/vertical-responsive-menu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/about/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/about/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/about/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/about/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/jahadi-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/logos/creative-market.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/logos/designmodo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/logos/envato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/logos/themeforest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/map-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/01-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/01-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/02-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/02-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/03-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/03-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/04-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/04-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/05-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/05-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/06-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/portfolio/06-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/team/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/team/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/img/team/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/a076d05399.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/agency.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/forms/form-data-hamkari.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/templates/cooperation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jahadi/appfront/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/.idea/kotob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/css/mixins/_text-hide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/flaticon/license/license.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/image/IMAG0420_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/image/photo_۲۰۱۸-۰۴-۱۵_۱۸-۵۱-۱۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery.animateNumber.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery.timepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/static/js/scrollax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotob/app1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/app1/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/app1/api/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/app1/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/app1/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/app1/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/arabic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/material-dashboard-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/material-dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/material-dashboard.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/mycss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/css/roboto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/fonts/1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/fonts/2.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/fonts/3.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/fonts/4.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/fonts/5.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/fonts/6.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/Macbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/angular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/ex1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/ex2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/ex3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/faces/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/faces/card-profile1-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/faces/card-profile2-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/faces/marc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/iPad2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/imac1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/iphonex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/new_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/react.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/sidebar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/sidebar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/sidebar-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/sidebar-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/image/vue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/arrive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/bootstrap-material-design.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/bootstrap-notify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/bootstrap-selectpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/bootstrap-tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/chartist.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/here.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/jasny-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/jquery-jvectormap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/jquery.bootstrap-wizard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/jquery.tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/material-dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/material-dashboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/perfect-scrollbar.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/static/js/sweetalert2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/templates/create_rent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matin/matin/appfront/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sana.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/css/get.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/css/mycss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/js/getaddress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../system/app1/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../system/app1/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../system/app1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../system/app1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try-django-1.10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try-django-1.10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try-django-1.10/.idea/try-django-1.10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try-django-1.10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try-django-1.10/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sana/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <element signature="e#628#660#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/templates/info.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/static/js/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/static/css/get.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/static/js/getaddress.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sana/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="715">
+              <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/templates/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front/static/js/register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/static/css/mycss.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>displ</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/back/admin.py" />
+        <option value="$PROJECT_DIR$/sana/urls.py" />
+        <option value="$PROJECT_DIR$/back/serializers.py" />
+        <option value="$PROJECT_DIR$/back/permissions.py" />
+        <option value="$PROJECT_DIR$/sana/settings.py" />
+        <option value="$PROJECT_DIR$/back/urls.py" />
+        <option value="$PROJECT_DIR$/back/views.py" />
+        <option value="$PROJECT_DIR$/back/models.py" />
+        <option value="$PROJECT_DIR$/front/urls.py" />
+        <option value="$PROJECT_DIR$/front/views.py" />
+        <option value="$PROJECT_DIR$/front/static/js/getaddress.js" />
+        <option value="$PROJECT_DIR$/front/static/css/get.css" />
+        <option value="$PROJECT_DIR$/front/static/css/mycss.css" />
+        <option value="$PROJECT_DIR$/front/templates/register.html" />
+        <option value="$PROJECT_DIR$/front/templates/info.html" />
+        <option value="$PROJECT_DIR$/front/static/js/register.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/sana.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1080" />
+    <option name="height" value="585" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+              <item name="sana" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/front/static/js" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Documents\code python\django projects\sana\front\static\js" />
+      <recent name="C:\Users\acer\Documents\code python\django projects\sana\front\templates" />
+      <recent name="C:\Users\acer\Documents\code python\django projects\sana\front\static\css" />
+      <recent name="C:\Users\acer\Documents\code python\django projects\sana\back" />
+      <recent name="C:\Users\acer\Documents\code python\django projects\sana\front" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sana" type="Python.DjangoServer" factoryName="Django server">
+      <module name="sana" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f69939e-9c22-4621-9ddd-ec24a80ac8a4" name="Default Changelist" comment="" />
+      <created>1576065075889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576065075889</updated>
+      <workItem from="1576065078833" duration="10084000" />
+      <workItem from="1576087921702" duration="13412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23496000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13605899" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/back/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/permissions.py" />
+    <entry file="file://$PROJECT_DIR$/front/static/js/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/back/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sana/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#628#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sana/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/static/js/getaddress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/static/css/mycss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/static/css/get.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/templates/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/static/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

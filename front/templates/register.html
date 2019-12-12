@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+<head>
+
+    <link href="/static/css/mycss.css/" rel="stylesheet" type="text/css">
+    {#    <link href="{% static 'css/mycss.css' %}" rel="stylesheet" type="text/css">#}
+
+    <style>
+        .form input {
+            direction: rtl;
+            background: #ffffff;
+            border: 1px solid #4caf50;
+            border-radius: 12px;
+        }
+
+        #inf {
+            background: #d0eacdd1;
+            padding: 10px
+        }
+
+        input[type=radio] {
+            display: none;
+            margin: 10px;
+        }
+
+        label {
+            width: 40px;
+        }
+
+        /*
+          Change the look'n'feel of labels (which are adjacent to radiobuttons).
+          Add some margin, padding to label
+        */
+        input[type=radio] + label {
+            display: inline-block;
+            margin: -2px;
+            margin-bottom: 10px;
+            padding: 4px 12px;
+            background-color: #ffffff;
+            border: 1px solid #4caf50;
+            border-radius: 12px;
+            cursor: pointer;
+        }
+
+        /*
+         Change background color for label next to checked radio button
+         to make it look like highlighted button
+        */
+        input[type=radio]:checked + label {
+            background-image: none;
+            background-color: #5284b8;
+            color: white;
+        }
+    </style>
+</head>
+
+
+<body>
+<div class="login-page">
+    <div class="form">
+        <form class="">
+            <p id="inf">لطفا اطلاعات ورود خود را وارد بفرمایید</p>
+            <input type="text" id="inputFirstName" placeholder="نام" name="first_name"/>
+            <input type="text" id="inputLastName" placeholder="نام خانوادگی" name="last_name"/>
+            <input type="text" id="inputMobile" placeholder="تلفن همراه" name="coordinate_mobile"/>
+            <input type="text" id="inputPhone" placeholder="تلفن ثابت" name="coordinate_phone_number"/>
+            <input type="text" id="inputAddress" placeholder="آدرس دقیق" name="address"/>
+            <input type="radio" id="male" name="selector" value="m">
+            <label for="male">آقا</label>
+            <input type="radio" id="female" name="selector" value="f">
+            <label for="female">خانم</label>
+
+            <button type="submit">مرحله بعد</button>
+        </form>
+    </div>
+</div>
+
+</body>
+<script src="{% static 'js/jquery.min.js' %}"></script>
+
+<script src="{% static 'js/register.js' %}"></script>
+
+
+</html>
