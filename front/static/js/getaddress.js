@@ -16,12 +16,16 @@
     }
 
 function myAjax(url, resultFunction, method = 'GET') {
+    var auth = btoa('ali:201747matin');
     var settings = {
         "async": true,
         "crossDomain": true,
         "url": url,
         "method": method,
+        username: 'ali',
+        password: '201747matin',
         "headers": {
+            "Authorization": "Basic " + auth,
             "X-CSRFToken": getCookie('csrftoken'),
             "Accept": "*/*",
             "Cache-Control": "no-cache",

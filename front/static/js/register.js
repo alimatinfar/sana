@@ -37,14 +37,17 @@ function func(event) {
     form.append("coordinate_mobile", coordinate_mobile);
     form.append("coordinate_phone_number", coordinate_phone_number);
 
+    var auth = btoa('ali:201747matin');
     var settings = {
         "async": true,
         "crossDomain": true,
         "url": "/api/profile/",
         "method": "POST",
         dataType: "JSON",
+
         "headers": {
             "X-CSRFToken": getCookie('csrftoken'),
+            "Authorization": "Basic " + auth,
             "User-Agent": "PostmanRuntime/7.11.0",
             "Accept": "*/*",
             "Cache-Control": "no-cache",
